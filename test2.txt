@@ -1,0 +1,11 @@
+ Volume in drive E has no label.
+ Volume Serial Number is BC38-F272
+
+ Directory of E:\Devops latest
+
+22-03-2021  18:59    <DIR>          .
+22-03-2021  18:59    <DIR>          ..
+22-03-2021  18:49                 2 test1.txt
+22-03-2021  18:59                 0 test2.txt
+               2 File(s)              2 bytes
+               2 Dir(s)  378,393,935,872 bytes free
